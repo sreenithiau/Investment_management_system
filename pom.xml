@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.invest.app</groupId>
+  <artifactId>app</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+    <!-- https://mvnrepository.com/artifact/jfree/jcommon -->
+    <dependencies>
+	    <dependency>
+		 <groupId>org.jfree</groupId>
+		 <artifactId>jfreechart</artifactId>
+		 <version>1.5.0</version>		
+		</dependency>
+		
+	<dependency>
+	    <groupId>jfree</groupId>
+    	<artifactId>jcommon</artifactId>
+    	<version>1.0.5</version>
+	</dependency>
+
+    </dependencies>
+  
+</project>
